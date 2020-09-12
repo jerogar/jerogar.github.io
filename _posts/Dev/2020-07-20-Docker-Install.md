@@ -1,7 +1,5 @@
 # 01. Docker Install
 
-**1. Docker 설치**
-
 ```bash
 curl -fsSL [https://get.docker.com](https://get.docker.com/) | sudo sh
 docker -v #버전확인

@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "근본을 찾는 여행 - 영상처리/머신러닝"
+title                    : "Fundamental"
 title_separator          : "&#124;"
-subtitle                 : "Learn as if you would live forever, live as if you would die tomorrow - Mahatma Gandhi"# site tagline that appears below site title in masthead
-name                     : "TUB++"
-description              : "근본을 찾아가는 개발자"
+subtitle                 : "Computer Vision and Machine Learning"
+name                     : "Taeyup Song"
+description              : "블로그 구성 중"
 url                      : "https://jerogar.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : https-jerogar-github-io. # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : jerogar # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "TUB++"
+  name             : "Taeyup Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "블로그 구성 중"
   location         : "Republic of Korea"
@@ -276,7 +276,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
   - scope:

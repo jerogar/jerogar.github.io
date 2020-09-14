@@ -2,9 +2,11 @@
 layout: post
 title; Docker Install
 comments: true
-tags: [Docker]
+categories:
+  - Dev
+tags:
+  - Docker
 ---
-
 ```bash
 curl -fsSL [https://get.docker.com](https://get.docker.com/) | sudo sh
 docker -v #버전확인

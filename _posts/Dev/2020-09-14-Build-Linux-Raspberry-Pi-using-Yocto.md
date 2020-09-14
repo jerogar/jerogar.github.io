@@ -2,16 +2,17 @@
 layout: post
 title; [Yocto] Build Linux Raspberry Pi using Yocto
 comments: true
-tags: [Yocto, Raspberry Pi]
+categories:
+  - Dev
+tags:
+  - Yocto
+  - Raspberry Pi
 ---
 
 본 문서는 아래 블로그 글과 몇번의 삽질을 기반으로 작성되었습니다. 
-
 [https://js94.tistory.com/entry/라즈베리파이3Raspberry-Pi3에-Yocto-Project-설치](https://js94.tistory.com/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B43Raspberry-Pi3%EC%97%90-Yocto-Project-%EC%84%A4%EC%B9%98)
-
 [https://gachiemchiep.github.io/cheatsheet/build_image_rpi3_yocto/](https://gachiemchiep.github.io/cheatsheet/build_image_rpi3_yocto/)
 
----
 
 ## 시작하며...
 

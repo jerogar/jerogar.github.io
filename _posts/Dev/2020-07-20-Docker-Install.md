@@ -1,7 +1,6 @@
 ---
-layout: post
 title; Docker Install
-comments: true
+
 categories:
   - Dev
 tags:

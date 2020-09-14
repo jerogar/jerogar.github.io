@@ -140,7 +140,8 @@ source oe-init-build-env build
 bitbake rpi-hwup-image
 ```
 
-![01%20Raspberry%20Pi%20Yocto%20f2ebe9abc89e4f93b726ceba05e5a840/Untitled.png](01%20Raspberry%20Pi%20Yocto%20f2ebe9abc89e4f93b726ceba05e5a840/Untitled.png)
+![yocto_result](./img/yocto1.png)
+
 
 ### 6. SD card에 복사
 

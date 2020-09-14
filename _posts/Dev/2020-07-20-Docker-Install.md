@@ -1,4 +1,9 @@
-# 01. Docker Install
+---
+layout: post
+title; Docker Install
+comments: true
+tags: [Docker]
+---
 
 ```bash
 curl -fsSL [https://get.docker.com](https://get.docker.com/) | sudo sh

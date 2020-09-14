@@ -1,4 +1,9 @@
 ---
+layout: post
+title; [Yocto] Build Linux Raspberry Pi using Yocto
+comments: true
+tags: [Yocto, Raspberry Pi]
+---
 
 본 문서는 아래 블로그 글과 몇번의 삽질을 기반으로 작성되었습니다. 
 
